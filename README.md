@@ -9,7 +9,9 @@ Includes custom UI components made on top of existing Swing and AWT components.
 - Elegant UI design
 - Winning mark combination highlighting
 
-  
+## How to Run
+
+Run the [tic-tac-toe.jar](https://github.com/athkarandikar/tic-tac-toe-java/blob/4107bdf90653f5b1e78750ac19666a6441d44821/tic_tac_toe_game.jar) file, or compile and run the [Main.java](https://github.com/athkarandikar/tic-tac-toe-java/blob/4107bdf90653f5b1e78750ac19666a6441d44821/Main.java) file.
 
 ## Screenshots
 
