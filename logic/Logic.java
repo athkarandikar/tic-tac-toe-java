@@ -10,8 +10,7 @@ import data.Data;
 
 public class Logic {
     // checks for win
-    // returns List containing the boolean whether someone's won the game, and the
-    // winning cell combination
+    // returns a List containing a boolean whether someone's won the game, and the winning cell combination
     public static List<Object> checkForWin(Data data) {
         // check for diagonal win
         if (data.boardCells[0][0].getText().equals(data.boardCells[1][1].getText())
